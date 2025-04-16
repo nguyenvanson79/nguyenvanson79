@@ -1,28 +1,75 @@
+# nguyenvanson79
 
-# 👋 Xin chào, tôi là Nguyen Van Son
+## Senior IT Student at Vietnam Aviation Academy
 
-## 👨‍💻 Về tôi
-Tôi là một lập trình viên với sở thích về Python và JavaScript. Hiện đang theo học tại Vietnam Aviation Academy (Nhóm 11 - IT).
+![Followers](https://img.shields.io/badge/Followers-1-blue)
+![Following](https://img.shields.io/badge/Following-0-blue)
+![Group](https://img.shields.io/badge/Group-11_IT-lightgrey)
 
-## 🚀 Dự án nổi bật
-- [cham_cong_python](https://github.com/nguyenvanson79/cham_cong_python) - Ứng dụng Python để quản lý chấm công
-- [chip_web](https://github.com/nguyenvanson79/chip_web) - Dự án web sử dụng JavaScript
-- [E-Commerce-G11](https://github.com/nguyenvanson79/E-Commerce-G11) - Dự án thương mại điện tử với nhóm G11
+## 📊 GitHub Stats
+- **Total Stars Earned:** ![Stars](https://img.shields.io/badge/Stars-22-yellow)
+- **Total Commits (2025):** ![Commits](https://img.shields.io/badge/Commits-22-brightgreen)
 
-## 🛠️ Công nghệ và ngôn ngữ
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-- ![Web Development](https://img.shields.io/badge/-Web%20Development-0078D7?style=flat)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-## 📈 GitHub Stats
-- 22 đóng góp trong năm qua
-- 4 repositories
-- Hoạt động tích cực trong tháng 4/2025
+<div style="background-color: #0d1117; border-radius: 6px; padding: 16px; width: 400px; border: 1px solid #30363d;">
+  <h3>📁 cham_cong_python</h3>
+  <p>Ứng dụng Python để quản lý chấm công và thời gian làm việc</p>
+  <div>
+    <span>🔵 Python</span>
+    &nbsp;&nbsp;
+    <span>⭐ Stars</span>
+  </div>
+</div>
 
-## 🔗 Liên hệ
-- GitHub: [nguyenvanson79](https://github.com/nguyenvanson79)
-- Email: [example@email.com] <!-- Thay thế bằng email thật của bạn -->
+<div style="background-color: #0d1117; border-radius: 6px; padding: 16px; width: 400px; border: 1px solid #30363d;">
+  <h3>📁 E-Commerce-G11</h3>
+  <p>Dự án thương mại điện tử phát triển với nhóm 11 - IT - Vietnam Aviation Academy</p>
+  <div>
+    <span>🟡 JavaScript</span>
+    &nbsp;&nbsp;
+    <span>⭐ Stars</span>
+  </div>
+</div>
+
+<div style="background-color: #0d1117; border-radius: 6px; padding: 16px; width: 400px; border: 1px solid #30363d;">
+  <h3>📁 chip_web</h3>
+  <p>Dự án phát triển web với JavaScript và các công nghệ frontend hiện đại</p>
+  <div>
+    <span>🟡 JavaScript</span>
+    &nbsp;&nbsp;
+    <span>⭐ Stars</span>
+  </div>
+</div>
+
+<div style="background-color: #0d1117; border-radius: 6px; padding: 16px; width: 400px; border: 1px solid #30363d;">
+  <h3>📁 nguyenvanson79</h3>
+  <p>Trang GitHub profile cá nhân với các thông tin và dự án nổi bật</p>
+  <div>
+    <span>📄 Markdown</span>
+    &nbsp;&nbsp;
+    <span>⭐ Stars</span>
+  </div>
+</div>
+
+</div>
+
+## 🛠️ Kỹ năng
+- **Ngôn ngữ lập trình:** Python, JavaScript
+- **Phát triển web:** HTML, CSS, Frontend technologies
+- **Khác:** Git, GitHub
+
+## 🏆 Thành tựu
+- Hoạt động tích cực trên GitHub với 22 đóng góp trong năm qua
+- Phát triển nhiều dự án trong lĩnh vực IT và web
+
+## 📍 Thông tin liên hệ
+- **Vị trí:** Vietnam
+- **Email:** [example@email.com]
+- **GitHub:** [nguyenvanson79](https://github.com/nguyenvanson79)
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nguyenvanson79&color=blue" alt="Profile views">
+</p>
